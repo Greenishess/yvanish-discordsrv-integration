@@ -1,0 +1,7 @@
+name: yvanish-discordsrv-integration
+version: '${version}'
+
+main: dev.greenishes.yvanishDiscordsrvIntegration.YvanishDiscordsrvIntegration
+api-version: '26.1'
+
+depend: [YVanish]
